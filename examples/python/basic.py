@@ -49,10 +49,10 @@ if __name__ == "__main__":
     game.set_automap_buffer_enabled(True)
 
     # Enables information about all objects present in current episode/level.
-    game.set_objects_info_enabled(True)
+    #game.set_objects_info_enabled(True)
 
     # Enables information about all sectors (map layout).
-    game.set_sectors_info_enabled(True)
+    #game.set_sectors_info_enabled(True)
 
     # Sets other rendering options (all of these options except crosshair are enabled (set to True) by default)
     game.set_render_hud(False)
